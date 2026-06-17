@@ -1,0 +1,4 @@
+*.vcd
+*_sim
+*.out
+a.out
